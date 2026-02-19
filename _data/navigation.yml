@@ -17,8 +17,8 @@ main:
   - title: "Members"
     url: /members/    
     
-  - title: "Our research"
-    url: /ourresearch/
+#  - title: "Our research"
+ #   url: /ourresearch/
         
   - title: "News"
     url: /news/
