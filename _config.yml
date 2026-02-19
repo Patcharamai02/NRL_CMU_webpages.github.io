@@ -28,11 +28,10 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Faculty of Science, Chiang Mai University, Thailand"
   location         : "2319 and 2320, 3nd Floor, 
-  " 40th Anniversary Building (SCB2)," 
-  "Faculty of Science, Chiang Mai University" 
-  "239 Huaykaew Road, Tumbol Suthep," 
-  "Amphur Muang, Chiang Mai 50200 THAILAND"
-  
+                   : "40th Anniversary Building (SCB2)," 
+                   : "Faculty of Science, Chiang Mai University" 
+                   : "239 Huaykaew Road, Tumbol Suthep," 
+                   : "Amphur Muang, Chiang Mai 50200 THAILAND"
   Supervisor         : "Associate Professor Dr. Burapat Inceesungvorn"
   uri              : # URL
   email            : "Burapat.i@cmu.ac.th" 
